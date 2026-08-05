@@ -2,7 +2,7 @@
 A machine learning-based gun detection system utilizing neural networks to identify open and concealed firearms in standard and infrared video frames with 98.5% accuracy. 
 Features an infrared imaging approach for concealed weapon identification and a mobile app designed for real-time shooter alerts and low-cost community safety.
 
-**Abstract**
+**Abstract:**
 Gun violence is a national epidemic in the United States, with recent years typically
 seeing over 44,000 casualties, a number that is only increasing. For all involved, these
 shootings have an unfathomable negative impact, causing mass fear, trauma, and
